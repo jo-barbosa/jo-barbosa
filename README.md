@@ -41,7 +41,7 @@ I'm always looking for new challenges and opportunities to grow. Right now, I'm 
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/jo-barbosa/">
+  <a href="https://www.linkedin.com/in/jo-barbosa/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>

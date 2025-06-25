@@ -19,7 +19,7 @@
 ---
 
 ## 📚 About Me
-I'm always looking for new challenges and opportunities to grow. Right now, I'm focused on learning and developing the skills needed to become a Software Developer. I'm also interested in exploring new technologies, especially Spring Boot (Java) and .NET (C#).
+I'm always looking for new challenges and opportunities to grow. Right now, I'm focused on learning and developing the skills needed to become a Software Developer. I'm also interested in exploring new technologies, especially Spring Boot (Java).<!-- and .NET (C#).-->
 
 ---
 

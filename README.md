@@ -1,13 +1,12 @@
+# Hi, I'm Jorge Barbosa 👋
 
-# Olá, eu sou o Jorge Barbosa 👋
-
-🎓 Sou estudante de Engenharia Informática no [ISEP](https://www.isep.ipp.pt/).  
-💼 Atualmente trabalho no IKEA Industry.  
-💻 A minha ambição é tornar-me Software Developer!
+🎓 I'm a Computer Engineering student at [ISEP](https://www.isep.ipp.pt/).  
+💼 Currently working at IKEA Industry.  
+💻 My ambition is to become a Software Developer!
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Technologies & Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="48" height="48"/>
@@ -19,32 +18,34 @@
 
 ---
 
-## 📚 Sobre mim
-Gosto de aprender coisas novas e estou sempre à procura de desafios na área do desenvolvimento de software. Atualmente, o meu foco está em melhorar as minhas skills em Java e explorar novas linguagens e frameworks.
+## 📚 About Me
+I'm always looking for new challenges and opportunities to grow. Right now, I'm focused on learning and developing the skills needed to become a Software Developer. I'm also interested in exploring new technologies, especially Spring Boot (Java) and .NET (C#).
 
 ---
+
 <!--
-## 🚀 Projetos em destaque
+## 🚀 Featured Projects
 
-- [Nome do Projeto 1](#) – Breve descrição do projeto.
-- [Nome do Projeto 2](#) – Breve descrição do projeto.
+- [Project Name 1](#) – Brief project description.
+- [Project Name 2](#) – Brief project description.
 
-> (Adiciona os links aos teus repos/projetos principais aqui!)
+(Add your main project/repo links here!)
 -->
+
 ---
 
-## 📫 Contactos
+## 📫 Contacts
 
 <p>
-  <a href="mailto:teu.email@outlook.com">
+  <a href="mailto:barbosa.jorge@outlook.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/seu-linkedin">
+  <a href="https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/jo-barbosa/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 ---
 
-*“Sempre a aprender, sempre a evoluir.”*
+*“Always learning, always evolving.”*

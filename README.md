@@ -12,10 +12,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48" height="48"/>
 </p>
 
 ---
@@ -25,15 +24,9 @@ I'm always looking for new challenges and opportunities to grow. Right now, I'm 
 
 ---
 
-<!--
 ## 🚀 Featured Projects
 
-- [Project Name 1](#) – Brief project description.
-- [Project Name 2](#) – Brief project description.
-
-(Add your main project/repo links here!)
--->
-
+- [Logistic-on-Rails](https://github.com/jo-barbosa/Logistic-on-Rails) — End-to-end railway logistics management solution (Integrative Project, Sep. 2025 – Jan. 2026), graded **18/20** and awarded an **honorable mention** (LAPR3). Includes Backend/DB/Embedded modules, with KD-Trees (2D), graph algorithms (Dijkstra, Max Flow) for route/network optimization, Oracle/PL/SQL, and C/Assembly (RISC‑V) components, using Scrum, TDD, and CI.
 ---
 
 ## 📫 Contacts

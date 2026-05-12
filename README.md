@@ -45,7 +45,7 @@ Welcome to my Github page! I am Jorge and I am currently a Computer Engineering 
 - 🎯 **Status:** Currently in development.
 - 🧠 **Key Concepts:** Domain-Driven Design (DDD), custom Domain Specific Language (DSL) parsing, and Inter-Process Communication (IPC) / Concurrency.
 - ⚙️ **Architecture:** Multi-process and multi-threaded flight simulation engine, TCP/UDP client-server networking, and Relational Databases.
-- 🛠️ **Stack & Practices:** Java, C, ANTLR, Scrum, TDD, and CI/CD (GitHub Actions).
+- 🛠️ **Stack & Practices:** Java, Spring, JPA, Hibernate, JPQL, C, ANTLR, Scrum, TDD, and CI/CD (GitHub Actions).
 
 #### [🚂 Logistic-on-Rails](https://github.com/jo-barbosa/Logistic-on-Rails)
 *End-to-end railway logistics management solution (Integrative Project, Sep. 2025 – Jan. 2026).*

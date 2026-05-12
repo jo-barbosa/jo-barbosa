@@ -17,23 +17,24 @@ Welcome to my Github page! I am Jorge and I am currently a Computer Engineering 
 
 ## 🛠️ Technologies & Tools
 
-### 💻 Languages & Frameworks
-
+### 💻 Languages & Frameworks  
+  
 <p>
-  <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" />
-  <img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="Spring" />
-  <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" />
+  <img height="70" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" />
+  <img height="70" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="Spring" />
+  <img height="70" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React" />
+  <img height="70" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" />
 </p>
 
-### 🗄️ Databases & Tools
+### 🗄️ Databases & Tools  
+  
 <p>
-  <img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL" />
-  <img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker" />
-  <img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git" />
-  <img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="GitHub" />
+  <img height="70" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL" />
+  <img height="70" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker" />
+  <img height="70" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git" />
+  <img height="70" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="GitHub" />
 </p>
-
 ---
 
 ## 🚀 Featured Projects

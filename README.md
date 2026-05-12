@@ -35,6 +35,7 @@ Welcome to my Github page! I am Jorge and I am currently a Computer Engineering 
   <img height="70" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git" />
   <img height="70" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="GitHub" />
 </p>
+
 ---
 
 ## 🚀 Featured Projects

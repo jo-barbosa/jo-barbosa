@@ -25,12 +25,16 @@ Welcome to my Github page! I am Jorge and I am currently a Computer Engineering 
   <img height="70" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React" />
   <img height="70" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" />
+  <img height="70" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML" />
 </p>
 
 ### 🗄️ Databases & Tools  
   
 <p>
   <img height="70" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL" />
+  <img height="70" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="Oracle" />
+  <img height="70" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" />
+  <img height="70" src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg" alt="Maven" />
   <img height="70" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker" />
   <img height="70" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git" />
   <img height="70" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="GitHub" />
@@ -40,21 +44,29 @@ Welcome to my Github page! I am Jorge and I am currently a Computer Engineering 
 
 ## 🚀 Featured Projects
 
-#### 🚧 AlSafe - Flight Control & Management System *(Work in Progress)*
-*Air traffic control and flight management simulation system (Integrative Project 4th Sem., Apr. 2026 – Jun. 2026).*
+#### 🏭 Factory Maintenance Management System
+*Full-stack system to manage maintenance actions for the automation team (May 2026 – Jun. 2026).*
 
-- 🎯 **Status:** Currently in development.
-- 🧠 **Key Concepts:** Domain-Driven Design (DDD), custom Domain Specific Language (DSL) parsing, and Inter-Process Communication (IPC) / Concurrency.
-- ⚙️ **Architecture:** Multi-process and multi-threaded flight simulation engine, TCP/UDP client-server networking, and Relational Databases.
-- 🛠️ **Stack & Practices:** Java, Spring, JPA, Hibernate, JPQL, C, ANTLR, Scrum, TDD, and CI/CD (GitHub Actions).
+- 🏢 **Context:** Internal enterprise application developed for IKEA Industry.
+- 🧠 **Key Concepts:** Domain-Driven Design (DDD), secure air-gapped/offline deployment.
+- ⚙️ **Architecture:** Spring Boot REST API serving a React frontend, orchestrated via Docker.
+- 🛠️ **Stack & Practices:** Java 25, Spring Boot, React, Spring Data JPA, PostgreSQL, Docker Compose.
+
+#### [✈️ AlSafe - Flight Control & Management System](https://github.com/jo-barbosa/AIsafe-app)
+*Scalable flight management backend with domain validation and simulation engine (Feb. 2026 – Jun. 2026).*
+
+- 🎯 **Status:** Completed.
+- 🧠 **Key Concepts:** Domain-Driven Design (DDD), Domain Specific Language (DSL) parsing with ANTLR.
+- ⚙️ **Architecture:** TCP/UDP network servers deployed on AWS EC2, concurrent C simulation engine.
+- 🛠️ **Stack & Practices:** Java 21, JPA/Hibernate, PostgreSQL, C, AWS, Agile, CI/CD (GitHub Actions).
 
 #### [🚂 Logistic-on-Rails](https://github.com/jo-barbosa/Logistic-on-Rails)
 *End-to-end railway logistics management solution (Integrative Project, Sep. 2025 – Jan. 2026).*
 
 - 🏆 **Achievements:** Graded **18/20** and awarded an **honorable mention** (LAPR3).
 - 🧠 **Key Concepts:** Route and network optimization using KD-Trees (2D) and graph algorithms (Dijkstra, Max Flow).
-- ⚙️ **Architecture:** Modular system including Backend, Database, and Embedded components.
-- 🛠️ **Stack & Practices:** Oracle/PL/SQL, C/Assembly (RISC‑V), Scrum, TDD, and CI.
+- ⚙️ **Architecture:** TDD-driven tiered backend integrated with database and embedded components.
+- 🛠️ **Stack & Practices:** Java 17, Oracle SQL/PLSQL, C/Assembly (RISC‑V), JavaFX, TDD.
 
 ---
 

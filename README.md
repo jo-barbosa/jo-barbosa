@@ -53,7 +53,7 @@ Welcome to my Github page! I am Jorge, a Computer Engineering student at [ISEP](
 - 🏢 **Context:** Internal enterprise solution designed to digitize maintenance workflows and real-time equipment status tracking.
 - 🧠 **Key Concepts:** Domain-Driven Design (DDD), Event-Driven Architecture (Pub/Sub), Database-per-Service, Clean Architecture.
 - ⚙️ **Architecture:** Federated GraphQL Gateway forwarding operations to autonomous FastAPI microservices, coupled with RabbitMQ async messaging and a Streamlit dashboard.
-- 🛠️ **Stack & Practices:** Python 3.12, FastAPI, Strawberry GraphQL, RabbitMQ, Streamlit, Docker Compose, TDD.
+- 🛠️ **Stack & Practices:** Python 3.12, FastAPI, Strawberry GraphQL, RabbitMQ, Streamlit, Docker Compose, DDD.
 
 #### [✈️ AlSafe - Flight Control & Management System](https://github.com/jo-barbosa/AIsafe-app)
 *Scalable flight management backend with domain validation and simulation engine (Feb. 2026 – Jun. 2026).*

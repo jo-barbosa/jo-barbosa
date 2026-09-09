@@ -46,6 +46,7 @@ Welcome to my Github page! I am Jorge, a Computer Engineering student at [ISEP](
 ---
 
 ## 🚀 Featured Projects
+<!--
 
 #### [🏭 Factory Maintenance Management System](https://github.com/jo-barbosa/manutencao-api)
 *Event-driven microservices platform to manage industrial maintenance actions and system availability (May 2026 – Jul. 2026).*
@@ -55,6 +56,7 @@ Welcome to my Github page! I am Jorge, a Computer Engineering student at [ISEP](
 - ⚙️ **Architecture:** Federated GraphQL Gateway forwarding operations to autonomous FastAPI microservices, coupled with RabbitMQ async messaging and a Streamlit dashboard.
 - 🛠️ **Stack & Practices:** Python 3.12, FastAPI, Strawberry GraphQL, RabbitMQ, Streamlit, Docker Compose, DDD.
 
+-->
 #### [✈️ AlSafe - Flight Control & Management System](https://github.com/jo-barbosa/AIsafe-app)
 *Scalable flight management backend with domain validation and simulation engine (Feb. 2026 – Jun. 2026).*
 

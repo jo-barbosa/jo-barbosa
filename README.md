@@ -1,42 +1,44 @@
-### Hi there 👋 
+### Hi there 👋
 ### This is Jorge Barbosa!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jo-barbosa)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo-barbosa/)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:barbosa.jorge@outlook.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:barbosa.jorge@outlook.pt)
 
-Welcome to my Github page! I am Jorge, a Computer Engineering student at [ISEP](https://www.isep.ipp.pt/) working at IKEA Industry. I am passionate about Backend Engineering, Microservices Architecture, and Generative AI.
+Welcome to my GitHub page! I'm Jorge, a final-year Computer Engineering student at [ISEP](https://www.isep.ipp.pt/). I build web applications with **Java and Spring Boot** on the backend and **React with TypeScript** on the frontend, and I'm especially interested in applying **Generative AI** inside real software.
 
-#### 🌱 Things I am currently working on: 
+Before moving into software, I spent more than 8 years at IKEA Industry, where I used what I was learning in my degree to build internal tools in Python.
+
+#### 🌱 Things I am currently working on:
 - 🎓 Finishing my Computer Engineering degree at ISEP
-- ☕ Developing scalable backend systems using **Java (Spring Boot)** and **Python (FastAPI)**
-- 🐰 Designing Event-Driven Microservices with **RabbitMQ** and **GraphQL Gateways**
-- 🤖 Exploring **Generative AI**, LLMs, RAG, and AI Agents for software engineering
-- 💼 Working at IKEA Industry
+- 🍕 Building **LaPrizza**, a full-stack ordering platform with **Spring Boot 4**, **React**, **Three.js**, **Redis** and **RabbitMQ**
+- 🏛️ Applying **Hexagonal Architecture**, **DDD** and **TDD** in my projects
+- 🤖 Exploring **Generative AI** in applications: LLMs, AI Agents, Agent Skills, MCP and RAG
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-### 💻 Languages & Frameworks  
-  
+### 💻 Languages & Frameworks
+
 <p>
   <img height="70" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" />
   <img height="70" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="Spring Boot" />
+  <img height="70" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="TypeScript" />
+  <img height="70" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Three.js" />
   <img height="70" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python" />
-  <img height="30" src="https://github.com/gilbarbara/logos/blob/main/logos/fastapi.svg" alt="FastAPI" />
-  <img height="70" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" alt="GraphQL" />
-  <img height="70" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="RabbitMQ" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" />
-  <img height="70" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML" />
 </p>
 
-### 🗄️ Databases & Tools  
-  
+### 🗄️ Databases & Tools
+
 <p>
   <img height="70" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL" />
-  <img height="70" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="SQLite" />
+  <img height="70" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="Redis" />
+  <img height="70" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="RabbitMQ" />
   <img height="70" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="Oracle" />
+  <img height="70" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="SQLite" />
   <img height="70" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker" />
   <img height="70" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" />
   <img height="70" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git" />
@@ -47,13 +49,21 @@ Welcome to my Github page! I am Jorge, a Computer Engineering student at [ISEP](
 
 ## 🚀 Featured Projects
 
-#### [✈️ AlSafe - Flight Control & Management System](https://github.com/jo-barbosa/AIsafe-app)
-*Scalable flight management backend with domain validation and simulation engine (Feb. 2026 – Jun. 2026).*
+#### 🍕 LaPrizza - Full-Stack Pizza Ordering & 3D Visualization Platform
+*Ordering platform with a real-time 3D pizza configurator (Sep. 2026 – Present).*
+
+- 🧠 **Key Concepts:** Hexagonal Architecture, DDD, stateless JWT with role-based access control.
+- ⚙️ **Architecture:** Spring Boot backend talking to a Prolog-based AI microservice through RabbitMQ to schedule the kitchen and ovens, with real-time order status sent to the 3D frontend.
+- 🎨 **Frontend:** React (TypeScript) SPA with a 3D configurator (Three.js, React Three Fiber) that syncs ingredients and allergen alerts.
+- 🛠️ **Stack & Practices:** Java 25, Spring Boot 4, PostgreSQL, Redis, RabbitMQ, Docker, CI/CD (GitHub Actions), JUnit, Vitest.
+
+#### [✈️ AISafe - Flight Management System](https://github.com/jo-barbosa/AIsafe-app)
+*Flight management backend with domain validation and a simulation engine (Feb. 2026 – Jun. 2026).*
 
 - 🎯 **Achievements:** Graded **18/20**.
-- 🧠 **Key Concepts:** Domain-Driven Design (DDD), Domain Specific Language (DSL) parsing with ANTLR.
-- ⚙️ **Architecture:** TCP/UDP network servers deployed on AWS EC2, concurrent C simulation engine.
-- 🛠️ **Stack & Practices:** Java 21, JPA/Hibernate, PostgreSQL, C, AWS, CI/CD (GitHub Actions).
+- 🧠 **Key Concepts:** Domain-Driven Design (DDD), Domain Specific Language (DSL) for flight plan validation with ANTLR.
+- ⚙️ **Architecture:** TCP network servers deployed on AWS EC2, concurrent C simulation engine.
+- 🛠️ **Stack & Practices:** Java 21, JPA/Hibernate, PostgreSQL, C, AWS, CI/CD (GitHub Actions) with over 90% code coverage.
 
 #### [🚂 Logistic-on-Rails](https://github.com/jo-barbosa/Logistic-on-Rails)
 *End-to-end railway logistics management solution (Integrative Project, Sep. 2025 – Jan. 2026).*

@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo-barbosa/)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:barbosa.jorge@outlook.pt)
 
-Welcome to my GitHub page! I'm Jorge, a final-year Computer Engineering student at [ISEP](https://www.isep.ipp.pt/). I build web applications with **Java and Spring Boot** on the backend and **Angular with TypeScript** on the frontend, and I'm looking for a role in **backend** or **full-stack** development. I'm also interested in **SAP development** (ABAP Cloud and BTP) and have started learning ABAP.
+Welcome to my GitHub page! I'm Jorge, a final-year Computer Engineering student at [ISEP](https://www.isep.ipp.pt/). I build web applications with **Java and Spring Boot** on the backend and **Angular with TypeScript** on the frontend, and I'm looking for a role in **backend** or **full-stack** development.
 
 Before moving into software, I spent more than 8 years at IKEA Industry, where I used what I was learning in my degree to build internal tools in Python.
 
@@ -14,7 +14,6 @@ Before moving into software, I spent more than 8 years at IKEA Industry, where I
 - 🎓 Finishing my Computer Engineering degree at ISEP
 - 🍕 Building **LaPrizza**, a full-stack ordering platform with **Spring Boot 4**, **Angular**, **Three.js** and **PostgreSQL**, tested end to end with **Playwright** and deployed with **Docker Compose** and **nginx**
 - 📚 Building **citebook-ai**, a RAG service with **Spring AI** and **pgvector** that answers questions with checked citations
-- 🧩 Learning **ABAP** with SAP's *Acquiring Core ABAP Skills* course
 - 🏛️ Applying **Hexagonal Architecture**, **DDD** and **TDD** in my projects
 
 ---
